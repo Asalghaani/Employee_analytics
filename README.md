@@ -1,3 +1,4 @@
+
 # 🧠✨ Employee Analytics
 
 Welcome to the **Employee Analytics** project!  
@@ -51,20 +52,44 @@ We’re working with a dataset called `employee_records.csv`. It contains:
 
 1. 📥 Clone the repo or download the ZIP  
 2. 🧪 Open notebooks in **Google Colab** or **Jupyter**  
-3. ▶️ Run the cells step-by-step
+3. ▶️ Run the cells step-by-step  
+
 ---
 
-## Contributors
-👩‍💻 Asal Ghaani – Data analysis, visualizations, testing, and documentation
-👨‍💻 Aryan – AI model development (💡 will be uploaded soon!)
+## 💾 Install Requirements
 
-🔮 What’s Coming Next?
-📥 The AI model will soon be added by a teammate.
-This project is for educational purposes and open for learning, sharing, and improvement 🧠💡
+Install all dependencies using:
 
-
-### 💾 Install requirements:
 ```bash
 pip install -r requirements.txt
+```
 
+Or manually install them with:
 
+```bash
+pip install pandas matplotlib seaborn scikit-learn
+```
+
+---
+
+## 👥 Contributors
+
+- 👩‍💻 **Asal Ghaani** – Data analysis, visualizations, testing, and documentation  
+- 👨‍💻 **Aryan** – AI model development (💡 will be uploaded soon)
+
+---
+
+## 🔮 What’s Coming Next?
+
+📥 The AI model will soon be added by a teammate.  
+It will help predict whether an employee earns a **high or low salary**, based on features like:
+
+- 🎂 Age  
+- 🏢 Department  
+- 💰 Salary  
+
+---
+
+## 📌 License
+
+This project is for educational purposes and open for learning, sharing, and improvement 🧠💡
