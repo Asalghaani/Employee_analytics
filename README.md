@@ -10,7 +10,8 @@ This repository is all about understanding employee data 📊, running visual an
 
 - 🔍 **Data Analysis** – Visual breakdown of salary, age, country, and departments  
 - 🧪 **Model Testing** – A framework to test machine learning models  
-- 🤖 **AI Model** – Coming soon! Built by a teammate and will be uploaded shortly  
+- 🤖 **AI Model** – XGBoost Model for Salary Prediction
+The hyperparameters of this model are set with RandomizedSearchCV
 
 ---
 
@@ -67,7 +68,7 @@ pip install -r requirements.txt
 Or manually install them with:
 
 ```bash
-pip install pandas matplotlib seaborn scikit-learn
+pip install pandas matplotlib seaborn scikit-learn xgboost
 ```
 
 ---
